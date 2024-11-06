@@ -115,4 +115,9 @@ footer a:hover {
     color: #ccd6f6; /* Changes color on hover */
 }
 
+footer a i {
+    font-size: 40px; /* Adjusts the size of the icons to 24px */
+}
+
+
 
