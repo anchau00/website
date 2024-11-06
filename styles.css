@@ -105,12 +105,14 @@ footer p {
 }
 
 footer a {
-    color: rgb(15, 180, 230); /* Yellow color for links for visibility */
+    color: rgb(7, 173, 195); /* Yellow color for links for visibility */
     text-decoration: none; /* Removes underline from links */
     padding: 0 10px; /* Adds padding to each side of the link */
+    font-size: 24px; /* Increases the size of the icons */
 }
 
 footer a:hover {
-    text-decoration: underline; /* Adds underline on hover for visual feedback */
+    color: #ccd6f6; /* Changes color on hover */
 }
+
 
