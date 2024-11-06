@@ -66,3 +66,51 @@ footer {
     background-color: #112240;
     color: #ccd6f6;
 }
+
+.project {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #112240; /* Darker background for project entries */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3); /* Subtle shadow for depth */
+}
+
+.project h3, .project p {
+    color: #ccd6f6; /* Maintaining the text color scheme */
+    margin-bottom: 5px;
+}
+
+.project ul {
+    list-style-type: square; /* Square bullet points for a change */
+    margin-left: 20px; /* Consistent indentation */
+}
+
+.highlight {
+    background-color: #ccd6f6; /* Yellow background for high visibility */
+    color: #000; /* Black text for contrast */
+    font-weight: bold; /* Make the text bold */
+    padding: 0 4px; /* Add some padding around the text */
+}
+
+footer {
+    background-color: #112240; /* Dark background for the footer */
+    color: #ccd6f6; /* Light color for text for readability */
+    text-align: center; /* Center aligns the content */
+    padding: 20px 0; /* Padding on top and bottom */
+    font-size: 16px; /* Sets a comfortable reading size */
+}
+
+footer p {
+    margin: 0; /* Removes default paragraph margin */
+}
+
+footer a {
+    color: rgb(15, 180, 230); /* Yellow color for links for visibility */
+    text-decoration: none; /* Removes underline from links */
+    padding: 0 10px; /* Adds padding to each side of the link */
+}
+
+footer a:hover {
+    text-decoration: underline; /* Adds underline on hover for visual feedback */
+}
+
