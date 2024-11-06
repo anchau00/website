@@ -40,6 +40,24 @@ section {
     margin: 10px 50px;
     background: #0a192f;
     border-left: 3px solid #233554;
+    font-size: 15px;
+}
+
+.job {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #112240; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3); 
+}
+
+.job h3, .job p {
+    margin-bottom: 5px;
+}
+
+.job ul {
+    list-style-type: circle; 
+    margin-left: 20px; 
 }
 
 footer {
