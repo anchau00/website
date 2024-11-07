@@ -43,6 +43,14 @@ section {
     font-size: 15px;
 }
 
+.about {
+    margin-bottom: 4px;
+    padding: 2px;
+    background-color: #112240; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3); 
+}
+
 .job {
     margin-bottom: 20px;
     padding: 10px;
